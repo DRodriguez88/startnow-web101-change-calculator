@@ -1,0 +1,87 @@
+html { 
+    background: url(Smaug-gold-horde.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    box-sizing: border-box
+  }
+button {
+    background-color: goldenrod;
+    border-radius: 30%;
+    font-size: 15px
+}
+button:hover {
+    font-size: 30px;
+    background-color: green
+}
+input {
+    font-size: 15px
+}
+
+#interface {
+    color: goldenrod;
+    text-align: center;
+    height: 100px;
+}
+input {
+    width: 20%;
+    height: 20%;
+}
+#output-div {
+    overflow: auto;
+    height: 170px
+}
+#dollars-div {
+    box-sizing: border-box;
+    background-image: url();
+    width: 18%;
+    height: 150px;
+    float: left;
+    margin: 1%;
+    color: black;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 15px
+}
+#quarters-div {
+    box-sizing: border-box;
+    width: 18%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 15px
+}
+#dimes-div {
+    box-sizing: border-box;
+    width: 18%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 15px
+}
+#nickels-div {
+    box-sizing: border-box;
+    width: 18%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 15px
+}
+#pennies-div {
+    box-sizing: border-box;
+    width: 18%;
+    height: 150px;
+    margin: 1%;
+    float: left;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 15px
+    
+}
